@@ -1,3 +1,6 @@
+##THIS IS APP_UNIVERSAL_1.PY ALONG WITH OTHER LLM SELECTORS (OLLAMA, CLAUDE, OPENAI AND GORQ), ##
+## OPTION TO SELECT 3 OTHER TYPES OF OLLAMA##
+
 import streamlit as st
 from langgraph.prebuilt import create_react_agent
 from langchain_community.tools import DuckDuckGoSearchRun
